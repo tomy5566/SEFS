@@ -244,8 +244,8 @@ h1{
     padding-top: 10px;
     padding-bottom: 10px;
     margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
 }
 
 /* RWD  */
@@ -260,7 +260,7 @@ h1{
             display: block;
             justify-content:space-between;
             align-items: center; /* 交錯軸在中間*/
-            background-color: red;
+            background-color:#23852a;
             box-shadow: 0px 10px 20px -5px gray;
           
         }
@@ -316,7 +316,7 @@ h1{
         display: block;
         justify-content:space-between;
         align-items: center; /* 交錯軸在中間*/
-        background-color: yellow;
+        background-color: #23852a;
         box-shadow: 0px 10px 20px -5px gray;
       
     }
@@ -380,10 +380,9 @@ h1{
         display: block;
         justify-content:space-between;
         align-items: center; /* 交錯軸在中間*/
-        background-color: black;
+        background-color: #23852a;
         box-shadow: 0px 10px 20px -5px gray;
-        height: 150px;
-      
+        height: 150px;      
     }
 
 
@@ -432,10 +431,20 @@ h1{
 
 
     .buyingbox{
-
         font-size: 11px;
         width: 90px;
         padding: 3px 3px;
         border: 1px solid black;
     }
+
+
+
+    .course-item .sales{
+        font-size: 10px;
+        width: 50px;
+        padding: 5px 5px;
+        margin: 5px 5px;
+    }
+
+
 }
