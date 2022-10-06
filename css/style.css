@@ -211,10 +211,27 @@ h1{
     margin: 10px 10px;
 }
 
+.course-item .salesonly{
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    color: #ffff;
+    background: green;
+    width: 100px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+
 .course-item img{
     width: 400px;
     height: 400px;
     margin-left: 40px;
+    margin-top: 10px;
+}
+
+.course-item img:hover {
+    box-shadow: 0px 0px 10px gray;
+
 }
 
 .course-item h2{
@@ -247,6 +264,9 @@ h1{
     /* margin-left: 20px;
     margin-right: 20px; */
 }
+
+
+
 
 /* RWD  */
 
@@ -439,7 +459,7 @@ h1{
 
 
 
-    .course-item .sales{
+    .course-item .sales, .course-item .salesonly{
         font-size: 10px;
         width: 50px;
         padding: 5px 5px;
