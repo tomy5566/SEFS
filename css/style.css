@@ -127,6 +127,7 @@ h1{
 
 .header{
     margin-bottom: 20px;
+    padding-bottom: 8px;
     display: flex;
     justify-content:space-between;
     align-items: center; /* 交錯軸在中間*/
@@ -180,7 +181,9 @@ h1{
 }
 
 .menu li a:hover{
-    background: blue;
+    background:#fff;
+    color: #3bce55;
+    font-weight: bold;
 
 }
 
@@ -410,20 +413,47 @@ h1{
         align-items: center; /* 交錯軸在中間*/
         background-color: #23852a;
         box-shadow: 0px 10px 20px -5px gray;
-        height: 120px;  
+        height: 80px;  
             
     }
 
+    .menu {
+        display: flex; 
+        justify-content: center;
+        padding: 1px;
+     }
 
     .logo img{
-        height: 30px;        
+        height: 25px;  
+        
+             
     }
+
+    .header .logo {
+        text-decoration: none; 
+        margin-left: 5px;
+              
+    }
+
+    .header .logo span{
+        font-size: 20px;
+        font-weight: bold;
+        text-align: center;
+        color: #fff;
+        text-decoration: none; 
+        /* display: none; */
+              
+    }
+
+
 
     .header h1{
         font-size: 20px;
         font-weight: bold;
         text-align: center;
         color: #fff;
+        display: none;
+        
     }
 
     .course-item{
