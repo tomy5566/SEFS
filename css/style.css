@@ -419,7 +419,7 @@ h1{
         align-items: center; /* 交錯軸在中間*/
         background-color: #23852a;
         box-shadow: 0px 10px 20px -5px gray;
-        height: 80px;  
+        height: 95px;  
             
     }
 
@@ -447,7 +447,7 @@ h1{
         text-align: center;
         color: #fff;
         text-decoration: none; 
-        /* display: none; */
+        display: block;
               
     }
 
