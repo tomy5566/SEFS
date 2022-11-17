@@ -4,7 +4,7 @@
 使用HTML配合CSS FLEX 展示商品清單
 
 ## DEMO link
-[https://tomy5566.github.io/SEFS/＿](https://tomy5566.github.io/SEFS/)
+[https://tomy5566.github.io/SEFS/](https://tomy5566.github.io/SEFS/)
 
 ## 使用技術
 - HTML
