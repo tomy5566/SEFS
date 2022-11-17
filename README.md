@@ -18,7 +18,9 @@
 4.RWD設計可適應不同解析度介面。利用CSS display:none設計不同排版的表頭顯示。
 
 ## 介面展示
-![image]()
+
+![image](https://i.imgur.com/nP21ow6.png)
+![image](https://i.imgur.com/TjRsQeY.png)
 
 ## 參考資料
 六角學院HTML/CSS線上課程
