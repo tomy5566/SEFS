@@ -1,7 +1,7 @@
 # 商品展示 練習專案readme
 
 ## 主要介紹
-使用HTML配合CSS FLEX 展示商品清單
+使用HTML配合CSS FLEX ，製作展示商品清單
 
 ## DEMO link
 [https://tomy5566.github.io/SEFS/](https://tomy5566.github.io/SEFS/)
@@ -11,7 +11,7 @@
 - CSS: [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)
 
 ## 主要技術介紹
-本專案僅使用HTML刻板，主要是練習CSS的 flex ， 浮動元件與 RWD 設計
+本練習僅使用HTML刻板，主要是練習CSS的 flex ， 浮動元件與 RWD 設計
 1.使用HTML建立版型，配合CSS flex展示商品照片。
 2.使用CSS Hover設計滑鼠移入陰影或導覽列變色效果。
 3.使用position:fixed 商品照片右上方浮起的特價紅標。以及讓表頭與表尾能永遠浮動顯現，右下角的浮動元件固定位置。
