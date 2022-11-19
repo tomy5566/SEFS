@@ -104,13 +104,15 @@ h1{
 .buyingbox{
     position: fixed; /* 用css將元素永遠固定在畫面上，且不會因卷軸滾動而受影響 */
     right: 0;
-    bottom: 0;
+    bottom: 55px;
     color: #fff;
     background: #23852a;
-    font-size: 30px;
-    width: 250px;
+    font-size: 14px;
+    text-align: center;
+    width: 100px;
     padding: 10px 10px;
     border: 1px solid black;
+    z-index: 50;
 }
 
 .buyingbox a{
@@ -280,6 +282,11 @@ h1{
     margin-top: 20px;
     /* margin-left: 20px;
     margin-right: 20px; */
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
 }
 
 
