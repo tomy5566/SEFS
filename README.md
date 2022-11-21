@@ -28,7 +28,7 @@
 
 ## 介面展示
 PC瀏覽器顯示介面<br>
-![image](https://i.imgur.com/nP21ow6.png) <br>
+![image](https://i.imgur.com/nP21ow6.png) <br> <br>
 手機樓覽器顯示介面<br>
 ![image](https://i.imgur.com/TjRsQeY.png)
 
