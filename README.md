@@ -1,4 +1,4 @@
-# 商品展示 練習專案readme
+# 商品展示 練習專案 Readme
 
 ## 主要介紹
 使用HTML配合CSS FLEX ，製作展示商品清單
