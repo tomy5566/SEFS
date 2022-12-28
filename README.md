@@ -13,10 +13,12 @@
 
 ## 主要技術介紹
 本練習主要使用HTML刻板，搭配練習CSS的 flex， 浮動元件與 RWD 設計。
-1.使用HTML建立版型，配合CSS flex展示商品照片。
-2.使用CSS Hover設計滑鼠移入陰影或導覽列變色效果。
-3.使用position:fixed 呈現商品照片左上方浮起的特價紅標。以及讓表頭與表尾，以及右下角的浮動元件可固定浮動顯示於頁面。 
-4.RWD設計可適應不同解析度介面。利用CSS display:none設計不同排版的表頭渲染。
+1. 使用HTML建立版型，配合CSS [flex](https://developer.mozilla.org/zh-CN/docs/Web/CSS/flex)展示商品照片。
+2. 使用[CSS :Hover](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:hover)設計滑鼠移入陰影或導覽列變色效果。
+3. 使用[position:fixed](https://developer.mozilla.org/en-US/docs/Web/CSS/position) 呈現商品照片左上方浮起的特價紅標。以及讓表頭與表尾，以及右下角的浮動元件可固定浮動顯示於頁面。
+4. RWD設計可適應不同解析度介面。利用CSS display:none設計不同排版的表頭渲染。
+
+
 
 ## 功能介紹
 - 將商品清楚配合照片與簡易列紹，列於資訊卡片中便於瀏覽。
